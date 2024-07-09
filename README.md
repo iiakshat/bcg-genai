@@ -1,2 +1,2 @@
-# bcg-genai
-This is BCG's Generative AI virtual internship simulation from theforage.com
+# BCG's GenAI Simulation - Forage
+Repository for BCG's Generative AI virtual internship simulation from [TheForage](theforage.com).
